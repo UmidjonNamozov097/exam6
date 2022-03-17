@@ -1,4 +1,4 @@
-package com.example.networkingexam.networking.service
+package com.example.myapplication.networking.service
 
 import com.example.networkingexam.model.Card
 import retrofit2.Call

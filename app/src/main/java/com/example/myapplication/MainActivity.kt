@@ -13,8 +13,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.myapplication.adapter.CardAdapter
 import com.example.myapplication.database.AppDatabase
 import com.example.networkingexam.model.Card
-import com.example.networkingexam.networking.ApiClient
-import com.example.networkingexam.networking.service.Service
+import com.example.myapplication.networking.ApiClient
+import com.example.myapplication.networking.service.Service
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
